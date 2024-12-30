@@ -1,3 +1,5 @@
+#https://chatgpt.com/c/67732298-80f4-8003-b591-223716a1c49d
+#https://chatgpt.com/c/6772f78a-5638-8003-8b3d-22615441904b
 #!/bin/bash
 
 # Atualiza os pacotes disponíveis
